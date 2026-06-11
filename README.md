@@ -90,7 +90,3 @@ This repository uses general safety concepts aligned with publicly available hea
 
 **Kware Wilfred**  
 AI Trainer | Critical Care Nurse | Medical AI Evaluator
-
-## Disclaimer
-
-This repository is for educational, portfolio, benchmarking, and AI evaluation purposes only. It does not provide medical advice, diagnosis, or treatment. Real medical decisions should always be made by qualified healthcare professionals according to local policy, clinical context, and current guidelines.
